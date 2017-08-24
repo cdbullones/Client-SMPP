@@ -1,4 +1,3 @@
-ClientSmpp.cs
 using JamaaTech.Smpp.Net.Client;
 using System;
 using System.Configuration;
